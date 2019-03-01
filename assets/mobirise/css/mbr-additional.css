@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Russo+One:400);
 
 
 
@@ -30,7 +30,7 @@ body {
   font-size: 3rem;
 }
 .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Russo One', sans-serif;
   font-size: 1.2rem;
 }
 .display-5 {
@@ -1836,39 +1836,6 @@ body {
 .cid-rjoYS9f6Bp .mbr-text,
 .cid-rjoYS9f6Bp .mbr-section-btn B {
   color: #ffa0a4;
-}
-.cid-rjnFGmoFpV {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
-}
-.cid-rjnFGmoFpV .card-wrapper {
-  z-index: 3;
-}
-.cid-rjnFGmoFpV .card-wrapper .mbr-section-title {
-  letter-spacing: 1px;
-  transition: all 2.5s cubic-bezier(0, 0.74, 0.52, 1.2);
-}
-.cid-rjnFGmoFpV:hover .mbr-section-title {
-  letter-spacing: 10px;
-}
-.cid-rjnFGmoFpV .full-link {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  font-size: 0;
-  z-index: 2;
-}
-.cid-rjnFGmoFpV .popup-btn.card-wrapper {
-  z-index: 1 !important;
-}
-.cid-rjnFGmoFpV .text-block {
-  text-align: right !important;
-}
-.cid-rjnFGmoFpV H2 {
-  text-align: center;
 }
 .cid-rjrKrUBgQP {
   padding-top: 60px;
