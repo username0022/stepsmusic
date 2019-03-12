@@ -58,7 +58,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "",
     "siteUrl": "",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -619,10 +619,11 @@
               "color": "#000000"
             },
             "H1": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#00172d"
             },
             "B": {
-              "color": "#232323"
+              "color": "#00172d"
             }
           },
           "_name": "header3",
