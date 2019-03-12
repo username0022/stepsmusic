@@ -1641,9 +1641,7 @@ body {
   background-image: url("../../../assets/images/hop-1920x1080.jpg");
 }
 .cid-rjnvNDFOqs .mbr-overlay {
-  background: #ff000e;
-  background: linear-gradient(45deg, #ff000e, #000000);
-  background: radial-gradient(#ff000e, #000000);
+  background: #ffffff;
 }
 .cid-rjnvNDFOqs .mbr-section-title {
   margin: 0;
@@ -1727,7 +1725,7 @@ body {
   text-align: center;
 }
 .cid-rkuVg684LE B {
-  color: #000000;
+  color: #232323;
 }
 .cid-rkuUblDwPj {
   padding-top: 45px;
