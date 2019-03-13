@@ -1775,6 +1775,40 @@ body {
 .cid-rjrKrUBgQP .underline {
   text-align: left;
 }
+.cid-rkDzOZCgav {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/doroga-razmetka-zakat-117085-1440x2560-2-1440x2560.jpg");
+}
+.cid-rkDzOZCgav .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rkDzOZCgav .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rkDzOZCgav .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rkDzOZCgav .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rkDzOZCgav .mbr-text,
+.cid-rkDzOZCgav .mbr-section-btn {
+  text-align: center;
+}
+.cid-rkDzOZCgav H1 {
+  text-align: center;
+  color: #000000;
+}
 .cid-rkCj609pqZ {
   padding-top: 45px;
   padding-bottom: 45px;
