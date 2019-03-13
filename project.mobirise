@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "рино",
-    "currentPage": "page3.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -2659,9 +2659,9 @@
         }
       ]
     },
-    "page4.html": {
+    "404.html": {
       "settings": {
-        "title": "404",
+        "title": "этой страници не существует",
         "order": 3
       },
       "components": [
