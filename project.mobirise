@@ -54,23 +54,24 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/d83cdf99-2x-32x32.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "UA-136137768-1",
     "cookiesAlert": "",
-    "gdpr": "",
-    "siteUrl": "",
+    "gdpr": "Мы можем обработать ваши данные, оставленные на сайте?<a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "siteUrl": "https://rhino.ml",
     "uniqCompNum": 55,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Synergy Sound",
-        "meta_descr": "",
+        "meta_descr": "Synergy Sound — проект студентов кафедры Музыкальной режиссуры университета СИНЕРГИЯ и отличная возможность начать карьеру в мире музыки! К развитию лейбла нас подтолкнуло простое желание продвигать хорошую музыку в массы: помогать молодым музыкантам с первыми шагами, давая возможность реализовывать свои идеи.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -866,11 +867,11 @@
           "_name": "info2",
           "_customHTML": "<section group=\"Info info2\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Верх\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Низ\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Показать заголовок\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Показать подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Показать кнопку\" name=\"showButton\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Цвет фона\" value=\"#000000\" selected>\n            <input type=\"video\" title=\"Фоновое видео\" value=\"https://www.youtube.com/watch?v=kI1YE_qenSU\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container-fluid\">\n        <div class=\"row justify-content-center\">\n            <div class=\"media-container-column col-12 col-lg-8 col-md-6\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-left mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">НАШИ ИСПОЛНИТЕЛИ ЕСТЬ НА МУЗЫКАЛЬНЫХ СЕРВИСАХ!</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-left mbr-fonts-style mbr-light mbr-white\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">Оставь заявку на релиз и добро пожаловать в лейбл!</h3>\n            </div>\n            <div class=\"media-container-column col-12 col-lg-4 col-md-6\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"page3.html#header1-1d\" data-app-placeholder=\"Введите Текст\">ЗАЯВКА НА РЕЛИЗ</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rkBoBeILno",
+          "_anchor": "info2-1i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "info2-1i"
+          "_params": {}
         },
         {
           "alias": false,
