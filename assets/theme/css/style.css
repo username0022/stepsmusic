@@ -412,6 +412,11 @@ nav .mbr-section-btn {
     display: -webkit-flex; }
   .menu .navbar-brand .navbar-logo img {
     display: -webkit-flex; }
+@media (max-width: 991px) {
+  .menu .navbar-collapse {
+    max-height: 95vh; }
+    .menu .navbar-collapse.show {
+      overflow: auto; } }
 @media (max-width: 767px) {
   .menu .navbar-collapse {
     max-height: 60vh; } }
@@ -424,7 +429,11 @@ nav .mbr-section-btn {
   .menu .navbar-nav.nav-dropdown {
     display: -webkit-flex; }
   .menu .navbar-toggleable-sm .navbar-collapse {
-    display: -webkit-flex !important; } }
+    display: -webkit-flex !important; }
+  .menu .collapsed .navbar-collapse {
+    max-height: 95vh; }
+    .menu .collapsed .navbar-collapse.show {
+      overflow: auto; } }
 
 .navbar {
   display: -webkit-flex;
