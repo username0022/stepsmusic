@@ -1,4 +1,8 @@
 @font-face {
+   font-family: 'againts';
+   src: url('againts/font.ttf');
+}
+@font-face {
    font-family: 'OpenSans-ExtraBold';
    src: url('OpenSans-ExtraBold/font.ttf');
 }
