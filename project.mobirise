@@ -68,12 +68,13 @@
     "gdpr": "",
     "siteUrl": "https://rhino.ml",
     "uniqCompNum": 76,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "snow": ""
   },
   "pages": {
     "index.html": {
