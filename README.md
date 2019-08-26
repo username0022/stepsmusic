@@ -1,2 +1,0 @@
-# rhino
-GitHub Pages
