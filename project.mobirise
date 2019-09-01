@@ -48,8 +48,8 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 46,
-    "versionPublish": "4.9.7",
+    "uniqCompNum": 47,
+    "versionPublish": "4.10.8",
     "favicon": "@PROJECT_PATH@/assets/images/d83cdf99-2x-32x32.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136137768-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-136137768-1');\r\n</script>",
@@ -104,6 +104,25 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "_customHTML": "anim.html\ncss\nfavicon.png\nfonts\nimg\ninc-plank.html\nindex.html\njs\nmusic.html\nsitemap.xml\nstyle.css",
+            "_customCSS": "",
+            "bgImageRadio": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff"
+          },
+          "_customHTML": "anim.html\ncss\nfavicon.png\nfonts\nimg\ninc-plank.html\nindex.html\njs\nmusic.html\nsitemap.xml\nstyle.css",
+          "_customCSS": "",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Расширения"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-1a"
         },
         {
           "alias": false,
