@@ -1,4 +1,8 @@
 @font-face {
-   font-family: 'againts';
-   src: url('againts/font.ttf');
+   font-family: 'Montserrat-Black';
+   src: url('Montserrat-Black/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Bold';
+   src: url('Montserrat-Bold/font.ttf');
 }
